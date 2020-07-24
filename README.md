@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adil-uddin)](https://github.com/LordDashMe/github-contribution-stats/)
--->
-![Adils's github stats](https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=hide_stars))
+![Adils's github stats](https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-uddin)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-uddin" />
+</a>
