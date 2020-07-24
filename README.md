@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adil-uddin)](https://github.com/LordDashMe/github-contribution-stats/)
 -->
+![Adils's github stats](https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=hide_stars))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-uddin)](https://github.com/anuraghazra/github-readme-stats)
 
 
