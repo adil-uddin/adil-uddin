@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ![Adils's github stats](https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-uddin)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![GitHub Game of Life](https://github4life.herokuapp.com/adil-uddin.gif?z=6)](https://github4life.herokuapp.com/adil-uddin)
+
 
 <a href="https://github.com/adil-uddin">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=stars" />
