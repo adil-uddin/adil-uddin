@@ -24,6 +24,3 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=adil-uddin&count_private=true&show_icons=true&theme=radical&hide=stars" />
 </a>  
 
-<a href="https://github.com/adil-uddin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-uddin" />
-</a>
